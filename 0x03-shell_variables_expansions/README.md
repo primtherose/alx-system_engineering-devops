@@ -1,1 +1,1 @@
-If the path be beautiful, let us not ask where it leads
+create a script that lists all local variables and environment variables, and functions
