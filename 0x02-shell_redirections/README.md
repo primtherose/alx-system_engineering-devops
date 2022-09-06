@@ -1,1 +1,1 @@
-Display the content of the /etc/passwd file
+Write a command that finds all empty files and directories in the current directory and all sub-directories
